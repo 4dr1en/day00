@@ -1,0 +1,152 @@
+    1  ls
+    2  ls -l
+    3  pwd
+    4  cd ..
+    5  cd admin
+    6  history
+    7  cd Desktop
+    8  mkdir cover
+    9  cd cover
+   10  rmdir cover
+   11  rm -rf cover
+   12  cd ..
+   13  rm -rf cover
+   14  mkdir linux
+   15  cd linux
+   16  mkdir day00
+   17  mkdor covers
+   18  mkdir covers
+   19  mkdir constructeurs
+   20  mkdir Sony Nintendo Microsoft
+   21  ls
+   22  rm -rf Microsoft Sony constructeurs covers nintendo
+   23  ls
+   24  cd day00
+   25  mkdir covers
+   26  cd cover
+   27  cd covers
+   28  mkdir constructeurs
+   29  mkdir Sony Nintendo Microsoft
+   30  cd ../
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd../..
+   35  ls
+   36  cd ../..
+   37  ls
+   38  cd Downloads
+   39  ls
+   40  unzip drive-download-20211018T072825Z-001.zip
+   41  ls
+   42  mv dc_jetgrindradio_10.jpg ../Desktop/linux/covers/Constructeurs/Nintendo/Console/Dreamcast/
+   43  mv dc_jetgrindradio_10.jpg ../Desktop/linux/covers/Constructeurs/Nintendo/Console/Dreamcast/dc_jetgrindradio_10.jpg
+   44  man mv
+   45  mv dc_jetgrindradio_10.jpg ../Bureau/linux/day00/covers/Constructeurs/Nintendo/Console/Dreamcast/dc_jetgrindradio_10.jpg
+   46  mv dc_jetgrindradio_10.jpg ../Desktop/linux/day00/covers/Constructeurs/Nintendo/Console/Dreamcast/dc_jetgrindradio_10.jpg
+   47  mkdir ../Desktop/linux/day00/covers/Constructeurs/Nintendo/Console/Dreamcast/
+   48  ls
+   49  pwd
+   50  mkdir /User/admin/Desktop/linux/day00/covers/Constructeurs/Nintendo/Console/Dreamcast/
+   51  mkdir /User/admin/Desktop/linux/day00/covers/Constructeurs/nintendo
+   52  mkdir /User/admin/Desktop/linux/day00/covers/Constructeurs/nintendo
+   53  cd Desktop
+   54  cd ../Desktop
+   55  mkdir linux/day00/covers/constructeurs/nintendo/dreamcast
+   56  mkdir linux/day00/covers/constructeurs/nintendo
+   57  mkdir linux/day00/covers/constructeurs/nintendo/dreamcast
+   58  cd ../Downloads
+   59  ls
+   60  man mv
+   61  mv dc_jetgrindradio_10.jpg ../Desktop
+   62  cd ../Desktop
+   63  mv dc_jetgrindradio_10.jpg ./linux/day00/covers/constructeurs/nintendo/dreamcast
+   64  cd ../Downloads
+   65  ls
+   66  mv dc_jetsetradio_eu_front.jpg ../Desktop/linux/day00/covers/constructeurs/nintendo/dreamcast
+   67  mkdir  ../Desktop/linux/day00/covers/constructeurs/microsoft
+   68  mkdir  ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox
+   69  mv xbox_jetsetradiofuture_2.jpg  ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox
+   70  mv xbox_deadoralive3.jpg  ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox
+   71  mkdir  ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360
+   72  mkdir   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360/Callofduty
+   73  mv x360_callfoduty3.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360/Callofduty
+   74  mv x360_callofduty2.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360/Callofduty
+   75  mv x360_callofduty4.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360/Callofduty
+   76  ls
+   77  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/dreamcast/Shenmue
+   78  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/
+   79  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/dreamcast/
+   80  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/dreamcast/Shenmue
+   81  mv dc_shenmue_eu.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/dreamcast/Shenmue
+   82  mv dc_shenmueii_5.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/dreamcast/Shenmue
+   83  ls
+   84  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/Gamecube/
+   85  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/Gamecube/Pokemon
+   86  rm -rf   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/Gamecube/Pokemon
+   87  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/Gamecube/Mariokart
+   88  mv gc_mariokartdoubledash.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/Gamecube/Mariokart
+   89  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/Gamecube/Supermario
+   90  mv gc_supermariosunshine.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles/Gamecube/Supermario
+   91  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables
+   92  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_bog
+   93  rm   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_bog
+   94  rm   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_bog -rf
+   95  rm   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_bog -rf
+   96  rm -rf  ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_bog 
+   97  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy
+   98  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy/pokemon
+   99  mv gb_pokemonblue_eu.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy/pokemon
+  100  mv gb_pokemongreen_3.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy/pokemon
+  101  mv gb_pokemonyellow_au.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy/pokemon
+  102  mv gameboy.pokmonred.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy/pokemon
+  103  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy_color
+  104  mkdir   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy_color/pokemon
+  105  mv gbc_pokemongold.jpg   ../Desktop/linux/day00/covers/constructeurs/nintendo/consoles_portables/Game_boy_color/pokemon
+  106  mkdir   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360/fable
+  107  mv xbox_360.fableiii.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360/fable
+  108  mkdir   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/Deadtoright
+  109  mv xbox_deadtorights.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/Deadtoright
+  110  mkdir   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/Halo
+  111  mv xbox_halo_2.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/Halo
+  112  mv xbox_halo2.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/Halo
+  113  mkdir   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/Defjamfightforny
+  114  mv xbox_defjamfightforny.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/Defjamfightforny
+  115  mkdir   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/NeedForSpeed
+  116  mv xbox_needforspeedunderground2.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox/NeedForSpeed
+  117  mkdir   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360/Callofduty
+  118  mv x360_callofdutyblackopsii.jpg   ../Desktop/linux/day00/covers/constructeurs/microsoft/xbox360/Callofduty
+  119  mkdir   ../Desktop/linux/day00/covers/constructeurs/sony
+  120  mkdir   ../Desktop/linux/day00/covers/constructeurs/sony/playstation4
+  121  ls
+  122  mkdir   ../Desktop/linux/day00/covers/constructeurs/sony/consoles
+  123  mkdir   ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4
+  124  mv    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Assassinscreed
+  125  mkdir    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Assassinscreed
+  126  mv playstation_4.assassinscreedodyssey.jpg    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Assassinscreed
+  127  mkdir    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Fifa
+  128  mv ps4_fifa14.jpg    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Fifa
+  129  mkdir    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Watchdogs
+  130  mv playstation_4.watchdogs2.jpg    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Watchdogs
+  131  mkdir    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Unchated
+  132  mv playstation_4.unchartedthelostlegacy.jpg   ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation4/Unchated
+  133  mkdir    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation5
+  134  mkdir    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation5/assassinscreed
+  135  mv playstation_5.assassinscreedvalhalla.jpg    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation5/assassinscreed
+  136  mkdir    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation5/Residentevil
+  137  mv playstation_5.residentevilvillage_.jpg    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation5/Residentevil
+  138  mkdir    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation5/Farcry
+  139  mv playstation_5.farcry6.jpg    ../Desktop/linux/day00/covers/constructeurs/sony/consoles/playstation5/Farcry
+  140  cd ../Desktop
+  141  cd ./linux/day00/covers
+  142  cd constructeurs
+  143  ls
+  144  mkdir sega
+  145  mv nintendo/dreamcast sega
+  146  man history
+  147  my_hystory.txt > history
+  148  history > my_history.txt
+  149  ls
+  150  history 1 > my_history.txt
+  151  history 1
+  152  history 1
