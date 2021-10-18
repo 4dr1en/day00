@@ -1,7 +1,5 @@
+#!/bin/bash
 
-rm javascript_villeurbanne_charbonnieres.csv
-rm mails_gex.csv
-rm mails_charbonnieres_remote.csv
 alumnisPhpRemote=0
 alumnisPython=0
 alumnisDavid=0
@@ -44,4 +42,4 @@ cat it_alumni.csv | while read line; do
         echo $alumnisPython > python_2008.csv
     fi
 done
-
+echo $alumnisDavid
