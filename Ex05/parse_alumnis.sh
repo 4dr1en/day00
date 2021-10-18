@@ -17,7 +17,7 @@ cat it_alumni.csv | while read line; do
     mail=${arr[5]}
 
     
-    if [[ "$lang" == "PHP" && "$campus" == "Remote" ]]; then
+    if [[ "$lang" == "PHP" && "$campus" == "Remote"  && "$promotion" == "2019" ]]; then
         ((alumnisPhpRemote+=1))
         echo $alumnisPhpRemote > php_remote_2019.csv
     fi
