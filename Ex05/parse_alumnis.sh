@@ -37,9 +37,9 @@ cat it_alumni.csv | while read line; do
         echo $mail >> mails_charbonnieres_remote.csv
     fi
 
-    if [[ "$lang" == "Python" ]]; then
+    if [[ "$lang" == "Python" && "$promotion" == "2008" ]]; then
         ((alumnisPython+=1))
         echo $alumnisPython > python_2008.csv
     fi
 done
-echo $alumnisDavid
+
