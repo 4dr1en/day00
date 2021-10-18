@@ -150,3 +150,210 @@
   150  history 1 > my_history.txt
   151  history 1
   152  history 1
+  153  history 1 > my_history.txt
+  154  mx my_history.txt ../..
+  155  mv my_history.txt ../..
+  156  pwd
+  157  cd Desktop
+  158  cd linux/day00
+  159  echo "# day00" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/4dr1en/day00.git\ngit push -u origin main
+  160  echo "# day00" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/4dr1en/day00.git\ngit push -u origin main
+  161  echo "# day00" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/4dr1en/day00.git\ngit push -u origin main
+  162  echo "# day00" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/4dr1en/day00.git\ngit push -u origin main
+  163  echo "# day00" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/4dr1en/day00.git\ngit push -u origin main
+  164  echo "# day00" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/4dr1en/day00.git\ngit push -u origin main
+  165  echo "# day00" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/4dr1en/day00.git\ngit push -u origin main
+  166  \ngit push -u origin main
+  167  git commit -m"ex3"
+  168  cd Ex04
+  169  bash print_groups.sh
+  170  bash print_groups.shls
+  171  cd day00/Ex4
+  172  bash print_groups.shls
+  173  bash print_groups.sh
+  174  ls
+  175  cd day00/Ex4
+  176  cd day00/Ex04
+  177  ls
+  178  bash print_groups.sh
+  179  bash print_groups.sh
+  180  bash print_groups.sh
+  181  bash print_groups.sh
+  182  bash print_groups.sh
+  183  bash print_groups.sh
+  184  cd ../Ex0
+  185  cd ../Ex05
+  186  bash parse_alumnis.sh
+  187  bash parse_alumnis.sh
+  188  bash parse_alumnis.sh
+  189  bash parse_alumnis.sh
+  190  bash parse_alumnis.sh
+  191  bash parse_alumnis.sh
+  192  bash parse_alumnis.sh
+  193  bash parse_alumnis.sh
+  194  cd ../Ex04
+  195  bash print_groups.sh
+  196  cd ../Ex05
+  197  bash parse_alumnis.sh
+  198  bash parse_alumnis.sh
+  199  bash parse_alumnis.sh
+  200  bash parse_alumnis.sh
+  201  bash parse_alumnis.sh
+  202  bash parse_alumnis.sh
+  203  bash parse_alumnis.sh
+  204  bash parse_alumnis.sh
+  205  bash parse_alumnis.sh
+  206  bash parse_alumnis.sh
+  207  bash parse_alumnis.sh
+  208  bash parse_alumnis.sh
+  209  clear
+  210  clear
+  211  bash parse_alumnis.sh
+  212  bash parse_alumnis.sh
+  213  bash parse_alumnis.sh
+  214  bash parse_alumnis.sh
+  215  bash parse_alumnis.sh
+  216  bash parse_alumnis.sh
+  217  bash parse_alumnis.sh
+  218  bash parse_alumnis.sh
+  219  bash parse_alumnis.sh
+  220  bash parse_alumnis.sh
+  221  bash parse_alumnis.sh
+  222  bash parse_alumnis.sh
+  223  bash parse_alumnis.sh
+  224  bash parse_alumnis.sh
+  225  bash parse_alumnis.sh
+  226  bash parse_alumnis.sh
+  227  bash parse_alumnis.sh
+  228  bash parse_alumnis.sh
+  229  bash parse_alumnis.sh
+  230  bash parse_alumnis.sh
+  231  bash parse_alumnis.sh
+  232  bash parse_alumnis.sh
+  233  bash parse_alumnis.sh
+  234  bash parse_alumnis.sh
+  235  bash parse_alumnis.sh
+  236  bash parse_alumnis.sh
+  237  bash parse_alumnis.sh
+  238  bash parse_alumnis.sh
+  239  bash parse_alumnis.sh
+  240  bash parse_alumnis.sh
+  241  bash parse_alumnis.sh
+  242  bash parse_alumnis.sh
+  243  bash parse_alumnis.sh
+  244  bash parse_alumnis.sh
+  245  bash parse_alumnis.sh
+  246  ls
+  247  cd ,,
+  248  cd ..
+  249  ls
+  250  cd E
+  251  cd Ex05
+  252  ls
+  253  bash it_alumni.csv
+  254  bash parse_alumnis.sh
+  255  git add ,
+  256  git add ,.
+  257  git add .
+  258  git commit -m"sha-bang"
+  259  git push
+  260  cd ..
+  261  chmod 777 * -r
+  262  chmod 777 *
+  263  cd Ex05
+  264  chmod parse_alumnis.sh
+  265  chmod parse_alumnis.sh 777
+  266  chmod parse_alumnis.sh 774
+  267  chmod ,/parse_alumnis.sh 774
+  268  chmod 777 ./parse_alumnis.sh
+  269  cd ../Ex04
+  270  ls
+  271  chmod 777 print_groups.sh
+  272  cd ../Ex03
+  273  ls
+  274  chmod 777 git_commit.sh
+  275  cd ../Ex02
+  276  ls
+  277  chmod 777 midLS
+  278  cd ../Ex01
+  279  ls
+  280  chmod 777 bonjour.sh
+  281  cd ../Ex00
+  282  ls
+  283  cd Ex01
+  284  bash bonjour.sh
+  285  git log --pretty=format:"%H"
+  286  ls
+  287  cd day00
+  288  git log --pretty=format:"%H"
+  289  git log --pretty=format:"%H"git log --max-count=5 --pretty=format:"%H"
+  290  git log --max-count=5 --pretty=format:"%H"
+  291  cd Ex00
+  292  mkdirclear
+  293  clear
+  294  mkdir Constructeurs
+  295  cd Constructeurs
+  296  mkdir Sony Nintendo Microsoft Sega
+  297  mkdir Sony/Consoles
+  298  mkdir Sega/Consoles
+  299  mkdir Microsoft/Consoles
+  300  mkdir Nintendo/Consoles
+  301  mkdir Nintendo/Consoles_portables
+  302  mkdir Sony/Consoles/ps4 Sony/Consoles/ps5
+  303  mkdir Nintendo/Consoles/gamecube
+  304  mkdir Nintendo/Consoles_portables/game_boy
+  305  mkdir Microsoft/Consoles/xbox
+  306  mkdir Microsoft/Consoles/xbox360
+  307  mkdir Sega/Consoles/dreamcast
+  308  cd ..
+  309  ls
+  310  mv dc_jetgrindradio_10.jpg Constructeurs/Sega/Consoles/dreamcast
+  311  mv dc_jetsetradio_eu_front.jpg  Constructeurs/Sega/Consoles/dreamcast
+  312  mv dc_shenmue  Constructeurs/Sega/Consoles/dreamcast
+  313  mv dc_shenmue_eu.jpg  Constructeurs/Sega/Consoles/dreamcast
+  314  mv dc_shenmueii_5.jpg  Constructeurs/Sega/Consoles/dreamcast
+  315  mv gameboy.pokmonred.jpg Constructeurs/Nintendo/Consoles_portables/game_boy
+  316  mv gb_pokemonblue_eu.jpg Constructeurs/Nintendo/Consoles_portables/game_boy
+  317  mv gb_pokemongreen_3.jpg Constructeurs/Nintendo/Consoles_portables/game_boy
+  318  mv gb_pokemonyellow_au.jpg Constructeurs/Nintendo/Consoles_portables/game_boy
+  319  mv gbc_pokemongold.jpg Constructeurs/Nintendo/Consoles_portables/game_boy
+  320  mv gc_mariokartdoubledash.jpg Constructeurs/Nintendo/Consoles/gamecube
+  321  mv gc_supermariosunshine.jpg Constructeurs/Nintendo/Consoles/gamecube
+  322  mv playstation_4.assassinscreedodyssey.jpg Constructeurs/Sony/ps4
+  323  mv playstation_4.watchdogs2.jpg Constructeurs/Sony/ps4
+  324  mv playstation_4.unchartedthelostlegacy.jpg Constructeurs/Sony/ps4
+  325  mv playstation_5.assassinscreedvalhalla.jpg Constructeurs/Sony/ps4
+  326  mv playstation_5.farcry6.jpg Constructeurs/Sony/ps5
+  327  mv playstation_5.residentevilvillage_.jpg Constructeurs/Sony/ps5
+  328  mv ps4_fifa14.jpg Constructeurs/Sony/ps4
+  329  mx x360_callfoduty3.jpg Constructeurs/Microsoft/Consoles/xbox360
+  330  mv x360_callfoduty3.jpg Constructeurs/Microsoft/Consoles/xbox360
+  331  mv x360_callofduty2.jpg Constructeurs/Microsoft/Consoles/xbox360
+  332  mv x360_callofduty4.jpg Constructeurs/Microsoft/Consoles/xbox360
+  333  mv x360_callofdutyblackopsii.jpg Constructeurs/Microsoft/Consoles/xbox360
+  334  mv xbox_360.fableiii.jpg Constructeurs/Microsoft/Consoles/xbox360
+  335  mv xbox_deadoralive3.jpg Constructeurs/Microsoft/Consoles/xbox
+  336  mv xbox_deadtorights.jpg Constructeurs/Microsoft/Consoles/xbox
+  337  mv xbox_defjamfightforny.jpg Constructeurs/Microsoft/Consoles/xbox
+  338  mv xbox_halo Constructeurs/Microsoft/Consoles/xbox
+  339  mv xbox_halo_2.jpg Constructeurs/Microsoft/Consoles/xbox
+  340  mv xbox_halo2.jpg Constructeurs/Microsoft/Consoles/xbox
+  341  mv xbox_jetsetradiofuture_2.jpg Constructeurs/Microsoft/Consoles/xbox
+  342  mv xbox_needforspeedunderground2.jpg Constructeurs/Microsoft/Consoles/xbox
+  343  cd Constructeurs/Sony
+  344  ls
+  345  mv ps4 Consoles
+  346  mv ps4 Consoles -r
+  347  mv ps4 Consoles
+  348  cd ..
+  349  cd ..
+  350  ls
+  351  mv playstation_4.assassinscreedodyssey.jpg Constructeurs/Sony/Consoles/ps4
+  352  mv playstation_4.unchartedthelostlegacy.jpg Constructeurs/Sony/Consoles/ps4
+  353  mv playstation_4.w Constructeurs/Sony/Consoles/ps4
+  354  mv playstation_4.watchdogs2.jpg Constructeurs/Sony/Consoles/ps4
+  355  mv playstation_5.assassinscreedvalhalla.jpg Constructeurs/Sony/Consoles/ps5
+  356  mv playstation_5.farcry6.jpg Constructeurs/Sony/Consoles/ps5
+  357  mv playstation_5.residentevilvillage_.jpg Constructeurs/Sony/Consoles/ps5
+  358  mv ps4_fifa14.jpg Constructeurs/Sony/Consoles/ps4
+  359  hystory 1

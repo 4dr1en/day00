@@ -1,1 +1,1 @@
-git log --max-count=5
+git log --max-count=5 --pretty=format:"%H"
