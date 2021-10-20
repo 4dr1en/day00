@@ -5,8 +5,7 @@ alumnisPython=0
 alumnisDavid=0
 
 cat it_alumni.csv | while read line; do
-    
-    line=$(echo $line | tr "," " ")
+    line=$(echo $line | tr " " "_" | tr "," " ")
     arr=($line)
 
     promotion=${arr[0]}
